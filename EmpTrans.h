@@ -23,7 +23,7 @@ protected:
 	static Modifstream *file;
 	
 public:
-	//EmpTrans();
+	EmpTrans();
 	~EmpTrans();
 	static void openUpadteFile();
 	static void closeUpadteFile();
