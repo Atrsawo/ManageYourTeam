@@ -14,6 +14,6 @@ public:
 	string readName(string str, int maxLen);
 	string readDate(string str, int maxLen);
 	long getSalary();
-	Date getDate()
+	Date getDate();
 
 };
